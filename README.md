@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="David Escalante / Deivee. Pienso. Construyo. Pruebo. Videojuegos, lógica y software, con una referencia ilustrada a Umbreon." width="1200">
+<img src="assets/banner.svg" alt="David Escalante / Deivee. Pienso. Construyo. Pruebo. Videojuegos, lógica y software, con una referencia ilustrada a Umbreon." width="1200">
 
 # Hola, soy David 👋
 
